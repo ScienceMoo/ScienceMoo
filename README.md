@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ScienceMoo
-- 👀 I just love all types of coding: competitions, data analysis/visualization, machine learning, software design, web design, I can't choose! Even better if it has something to do with biology.
+- 👋 Hi, I’m Marie
+- 👀 I love all types of coding: competitions, machine learning, software design, web design, data analysis/visualization, and learning new things! Even better if it has something to do with biology.
 - 🌱 Recently started learning Blender and Unity
-- 💞️ I’m looking to collaborate on any projects, because I will have lots of free time now that I'm graduating.
+- 💞️ I’m open to collaborate on projects because I have lots of free time now that I graduated from McGill University with a bachelor's in Computer Science and Biology.
 
 <!---
 ScienceMoo/ScienceMoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
